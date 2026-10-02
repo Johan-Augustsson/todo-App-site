@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";import{t}from"./ComingSoon-z7CD8ahi.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`Notes`});export{r as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./ComingSoon-B3QOith_.js";var n=e(),r=()=>(0,n.jsx)(t,{title:`Overview`});export{r as component};

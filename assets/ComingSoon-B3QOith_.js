@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e();function n({title:e}){return(0,t.jsxs)(`div`,{className:`rounded-lg border border-dashed p-10 text-center`,children:[(0,t.jsx)(`h2`,{className:`text-lg font-semibold`,children:e}),(0,t.jsx)(`p`,{className:`text-muted-foreground mt-1`,children:`Coming soon`})]})}export{n as t};
