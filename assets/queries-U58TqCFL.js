@@ -1,1 +1,0 @@
-import{N as e,ot as t}from"./queries-CvFFYtpT.js";var n={all:()=>[`tasks`],list:(n,r)=>t({queryKey:[`tasks`,n,r],queryFn:()=>e(n,r)})};export{n as t};

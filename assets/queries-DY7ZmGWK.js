@@ -1,0 +1,1 @@
+import{N as e,P as t,Q as n,st as r}from"./queries-BkDAk68e.js";var i={all:()=>[`tasks`],userList:e=>r({queryKey:[`tasks`,`user`,e],queryFn:()=>t(e)}),list:(t,n)=>r({queryKey:[`tasks`,t,n],queryFn:()=>e(t,n)})},a={all:()=>[`todos`],list:e=>r({queryKey:[`todos`,e],queryFn:()=>n(e)})};export{i as n,a as t};
