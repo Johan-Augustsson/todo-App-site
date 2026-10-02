@@ -1,0 +1,1 @@
+import{s as e}from"./index-C2iLtz0O.js";var t=e;export{t as notFoundComponent};

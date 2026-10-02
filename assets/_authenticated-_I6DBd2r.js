@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Cx0BB4qO.js";var t=e();function n(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(`h1`,{className:`mb-6 text-3xl font-bold tracking-tight`,children:`Todos`}),(0,t.jsx)(`p`,{className:`text-muted-foreground`,children:`You have no projects yet. Create a workspace and a project in the sidebar to add todos.`})]})}export{n as component};
