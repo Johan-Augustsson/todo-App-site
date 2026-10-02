@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BkSabwWG.js";var t=e();function n(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(`h1`,{className:`mb-6 text-3xl font-bold tracking-tight`,children:`Profile`}),(0,t.jsx)(`p`,{className:`text-muted-foreground`,children:`Profile settings are coming soon.`})]})}export{n as component};
