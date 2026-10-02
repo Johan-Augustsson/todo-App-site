@@ -1,0 +1,1 @@
+import{J as e,w as t}from"./queries-Cthk588L.js";var n={all:()=>[`tasks`],list:(n,r)=>e({queryKey:[`tasks`,n,r],queryFn:()=>t(n,r)})};export{n as t};

@@ -1,1 +1,0 @@
-import{q as e,w as t}from"./queries-B8QCptal.js";var n={all:()=>[`tasks`],list:(n,r)=>e({queryKey:[`tasks`,n,r],queryFn:()=>t(n,r)})};export{n as t};
