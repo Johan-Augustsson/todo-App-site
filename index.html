@@ -5,8 +5,17 @@
     <link rel="icon" type="image/svg+xml" href="/todo-App-site/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Todos</title>
-    <script type="module" crossorigin src="/todo-App-site/assets/index-BfzpqRx0.js"></script>
-    <link rel="stylesheet" crossorigin href="/todo-App-site/assets/index-lwAI-Yfu.css">
+    <script>
+      // Dark mode follows the OS setting via shadcn's `.dark` class (no toggle yet)
+      (() => {
+        const media = window.matchMedia('(prefers-color-scheme: dark)');
+        const apply = () => document.documentElement.classList.toggle('dark', media.matches);
+        apply();
+        media.addEventListener('change', apply);
+      })();
+    </script>
+    <script type="module" crossorigin src="/todo-App-site/assets/index-ByPz-dnN.js"></script>
+    <link rel="stylesheet" crossorigin href="/todo-App-site/assets/index-BBzsugA4.css">
   </head>
   <body>
     <div id="root"></div>
