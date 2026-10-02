@@ -1,0 +1,1 @@
+import{I as e}from"./index-DzDaj11y.js";var t=e();function n(){return(0,t.jsx)(`main`,{className:`mx-auto w-full max-w-sm px-4 py-12`,children:(0,t.jsx)(`h1`,{className:`text-3xl font-bold tracking-tight`,children:`Sign in`})})}export{n as component};
