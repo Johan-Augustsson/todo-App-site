@@ -1,0 +1,1 @@
+import{a as e}from"./index-CFHcH2ge.js";var t=e;export{t as notFoundComponent};

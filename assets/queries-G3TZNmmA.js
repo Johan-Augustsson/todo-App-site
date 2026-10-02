@@ -1,0 +1,1 @@
+import{a as e,y as t}from"./api-dVkOWvmT.js";var n={all:()=>[`todos`],list:(n,r)=>t({queryKey:[`todos`,n,r],queryFn:()=>e(n,r)})};export{n as t};
