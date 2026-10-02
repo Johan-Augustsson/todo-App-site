@@ -1,0 +1,1 @@
+import{B as e,g as t}from"./queries-Bl_alBwQ.js";function n(e={}){if(e.isNotFound=!0,e.throw)throw e;return e}function r(e){return e?.isNotFound===!0}var i={all:()=>[`workspaces`],data:n=>e({queryKey:[`workspaces`,n],queryFn:()=>t(n)})};export{r as n,n as r,i as t};

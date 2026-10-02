@@ -1,0 +1,1 @@
+import{i as e}from"./index-DpDsNVX8.js";var t=e;export{t as notFoundComponent};
