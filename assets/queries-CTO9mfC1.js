@@ -1,0 +1,1 @@
+import{v as e}from"./api-X4p6NjMw.js";import{g as t}from"./queries-s3iRIioM.js";function n(e={}){if(e.isNotFound=!0,e.throw)throw e;return e}function r(e){return e?.isNotFound===!0}var i={all:()=>[`workspaces`],data:n=>e({queryKey:[`workspaces`,n],queryFn:()=>t(n)})};export{r as n,n as r,i as t};

@@ -1,0 +1,1 @@
+import{i as e}from"./index-s1AnG_E3.js";var t=e;export{t as notFoundComponent};

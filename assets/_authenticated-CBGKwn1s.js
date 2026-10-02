@@ -1,0 +1,1 @@
+import{l as e}from"./button-vvnpPbBI.js";import{t}from"./TodoApp-C29KnU6C.js";var n=e();function r(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(`h1`,{className:`mb-6 text-3xl font-bold tracking-tight`,children:`Todos`}),(0,n.jsx)(t,{})]})}export{r as component};
