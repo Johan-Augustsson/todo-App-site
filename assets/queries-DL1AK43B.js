@@ -1,0 +1,1 @@
+import{M as e,rt as t}from"./queries-CL08Jbd-.js";var n={all:()=>[`tasks`],list:(n,r)=>t({queryKey:[`tasks`,n,r],queryFn:()=>e(n,r)})};export{n as t};

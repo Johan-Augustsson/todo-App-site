@@ -1,0 +1,1 @@
+import{o as e}from"./index-Dm2WWydA.js";var t=e;export{t as notFoundComponent};
